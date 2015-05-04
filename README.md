@@ -12,5 +12,5 @@ Now, the assumption for this collection is:
 That would lead to the main assumption:
 - All projects can be financed, as not only money will not being wasted on wars any more, but banks and "investors" will finance projects backed by "governments" and the new civil rules....
 
-__Let's think of a "green field" project for everything in our live, with endless budget. 
--What would you do?- __
+**Let's think of a "green field" project for everything in our live, with endless budget. 
+What would you do?**
