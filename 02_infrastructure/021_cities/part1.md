@@ -59,6 +59,10 @@ Mixed usage for leisure, or playground for kids. Possibly growing plants (e.g. B
 **Last Floor**
 The last floor should be used as a connection to the roof. Here small swimmingpools, libraries cinemas, etc. can be placed.
 
+![Example: Hundertwasserhaus "Waldspirale"](pictures/Waldspirale_01_699_darmstadt_hundertwasser69b_0.jpg)
+Example: Hundertwasserhaus "Waldspirale" - (http://de.wikipedia.org/wiki/Waldspirale)
+
+
 #### Houses for offices
 Similar rules as for "Blocks" apply.
 

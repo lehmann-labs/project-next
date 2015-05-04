@@ -14,3 +14,6 @@ That would lead to the main assumption:
 
 **Let's think of a "green field" project for everything in our live, with endless budget. 
 What would you do?**
+
+## Open Source
+The ideas shall be developed in an open source manner (see Linux Kernel).
